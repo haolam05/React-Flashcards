@@ -1,3 +1,8 @@
+
+![Screenshot 2023-08-29 021826](https://github.com/haolam05/React-Flashcards/assets/71291057/73d1f3eb-2efb-4ca2-baf5-7e8e31b1171d)
+
+![Screenshot 2023-08-29 021819](https://github.com/haolam05/React-Flashcards/assets/71291057/a3323986-7500-4799-814b-05a142cc236f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
